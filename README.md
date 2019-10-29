@@ -6,6 +6,6 @@ Deepfake in the wild is a dataset collected on the web.
 
 Our dataset contains 1005 videos.
 
-Baidu Drive: https://pan.baidu.com/s/1B-O5DwQGxsW44XuzA9-NPQ
+Baidu Drive: https://pan.baidu.com/s/1bYsie4Sz9vDWerBfGTyNxg
 
-passwd:qrg6
+passwd:8kqd
