@@ -4,7 +4,7 @@ Although some deepfake videos are only used for funny, when making malicious vid
 
 Deepfake in the wild is a dataset collected on the web.
 
-Our dataset contains 1005 videos.
+Our dataset contains 993 videos.
 
 Baidu Drive: https://pan.baidu.com/s/1bYsie4Sz9vDWerBfGTyNxg
 
