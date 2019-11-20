@@ -1,5 +1,5 @@
 # Deepfake Detection In The Wild
->Bojia Zi, Minghao Chang
+>Bojia Zi, Minghao Chang, Xingjun Ma, JJ Chen, YG jiang
 ##  Abstact
 Deepfakes technology is a deep learning-based face forgery technique that can replace one's face with another's face, which we usually call 'AI face swap.' In recent years, the abuse of deepfake has sparked public concern.
 Recently, dataset such as faceforensic++ and deepfake detection have filled in the gaps for deepfake detection datasets. Facebook also announced that it will release a data set for deepfake detection by the end of 2019.
