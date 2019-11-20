@@ -20,7 +20,7 @@ previous datasets and our dataset comparsion:
 
 <img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/TT_high.png" width="150" height="150" alt="Deepfake-TIMIT_high" align="left">
 
-<img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/FF.png" width="150" height="150" alt="FaceForensics++" align="left">
+<img src="./FF3.png" width="150" height="150" alt="FaceForensics++" align="left">
 
 <img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/DD.png" width="150" height="150" alt="DeepfakeDetection" align="left">
 
