@@ -18,7 +18,7 @@ Our dataset contains 993 videos.
 We use pretrained Resnet-101 to extracted features from provious datasets and our dataset, here is the comparsion:
 
 
-<img src="./TT_low.png" width="150" height="150" alt="Deepfake-TIMIT_low" align="left">
+<img src="./TT_low.png" width="20%" height="20%" alt="Deepfake-TIMIT_low" align="left">
 
 <img src="./TT_high.png" width="150" height="150" alt="Deepfake-TIMIT_high" align="left">
 
