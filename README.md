@@ -22,7 +22,7 @@ Our dataset contains 993 videos.
 We use pretrained Resnet-101 to extracted features from provious datasets and our dataset, here is the comparsion:
 
 <p align="center">
-<img src="./Camparsion.png"  alt="Comparsion" title="Comparsion" align="center"></img>
+<img src="./Comparsion.png"  alt="Comparsion" title="Comparsion" align="center"></img>
 </p>
 
 ## Download
