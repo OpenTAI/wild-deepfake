@@ -16,6 +16,4 @@ passwd:8kqd
 previous datasets and our dataset comparsion:
 
 
-<div  align="center">
-  ![avatar](./DD.png=100x100)
-</div>
+<img src="./DD.png" width="100" height="100" alt="图片名称" align=center>
