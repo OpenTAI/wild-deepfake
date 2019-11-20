@@ -17,8 +17,8 @@ Our dataset contains 993 videos.
 ## Expriments
 We use pretrained Resnet-101 to extracted features from provious datasets and our dataset, here is the comparsion:
 
-
-<img src="./TT_low.png" width="150" height="150" alt="Deepfake-TIMIT_low" align="left">
+<html>
+<img src="./TT_low.png" width="20%" height="20%" alt="Deepfake-TIMIT_low" align="left">
 
 <img src="./TT_high.png" width="150" height="150" alt="Deepfake-TIMIT_high" align="left">
 
@@ -27,7 +27,7 @@ We use pretrained Resnet-101 to extracted features from provious datasets and ou
 <img src="./DD.png" width="150" height="150" alt="DeepfakeDetection" align="left">
 
 <img src="./DW.png" width="150" height="150" alt="Deepfake in the wild" align="left">
-
+</html>
 
 ## Download
 [Baidu Drive](https://pan.baidu.com/s/1bYsie4Sz9vDWerBfGTyNxg)
