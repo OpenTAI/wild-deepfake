@@ -16,4 +16,4 @@ passwd:8kqd
 previous datasets and our dataset comparsion:
 
 
-<img src="./DD.png" width="100" height="100" alt="图片名称" align=center>
+<img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/DD.png" width="100" height="100" alt="图片名称" align=center>
