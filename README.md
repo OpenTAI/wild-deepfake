@@ -16,6 +16,6 @@ passwd:8kqd
 previous datasets and our dataset comparsion:
 
 
-<img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/DD.png" width="150" height="150" alt="DeepfakeDetection"  align="right">
+<img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/DD.png" width="150" height="150" alt="DeepfakeDetection" align="left">
 
-<img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/DW.png" width="150" height="150" alt="DeepfakeDetection" style="position:absolute; left:500; top:100; ">
+<img src="https://github.com/deepfakeinthewild/deepfake_in_the_wild/blob/master/DW.png" width="150" height="150" alt="DeepfakeDetection" align="left">
