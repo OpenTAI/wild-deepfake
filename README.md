@@ -1,5 +1,5 @@
 # Deepfake In The Wild
->BJ Zi, MH Chang, XJ Ma, JJ Chen, YG Jiang
+>BJ Zi*, XJ Ma*, MH Chang, JJ Chen, YG Jiang
 
 >[Contact us](19210240030@fudan.edu.cn)
 ##  Abstact
