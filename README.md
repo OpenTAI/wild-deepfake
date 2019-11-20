@@ -15,4 +15,5 @@ passwd:8kqd
 
 previous datasets and our dataset comparsion:
 
-![avatar](./DD.png)
+
+<img src="./DD.png" width = "100" height = "100"/>
