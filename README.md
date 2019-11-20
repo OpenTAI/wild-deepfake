@@ -19,7 +19,7 @@ Our dataset contains 993 videos.
 -**well made**
 
 ## Expriments
-We use pretrained Resnet-101 to extracted features from provious datasets and our dataset, here is the comparsion:
+We use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extracted features from the images in provious datasets and our dataset. Here is the comparsion:
 
 <p align="center">
 <img src="./Comparsion.png"  alt="Comparsion" title="Comparsion" align="center"></img>
