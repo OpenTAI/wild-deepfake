@@ -1,5 +1,5 @@
-# Deepfake Detection In The Wild
->BJ Zi, MH Chang, XJ Ma, JJ Chen, YG Jiang,
+# Deepfake In The Wild
+>BJ Zi, MH Chang, XJ Ma, JJ Chen, YG Jiang
 
 >[Contact us](19210240030@fudan.edu.cn)
 ##  Abstact
@@ -18,7 +18,7 @@ Our dataset contains 993 videos.
 We use pretrained Resnet-101 to extracted features from provious datasets and our dataset, here is the comparsion:
 
 <p align="center">
-<img src="./TT_low.png" width="150px" height="150px" alt="Deepfake-TIMIT_low" align="center"></img>
+<img src="./TT_low.png" width="150px" height="150px" alt="Deepfake-TIMIT_low" title="TT" align="center"></img>
 <img src="./TT_high.png" width="150px" height="150px" alt="Deepfake-TIMIT_high" align="center"></img>
 <img src="./FF3.png" width="150px" height="150px" alt="FaceForensics++" align="center"></img>
 <img src="./DD.png" width="150px" height="150px" alt="DeepfakeDetection" align="center"></img>
