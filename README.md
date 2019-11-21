@@ -9,9 +9,7 @@
 </p>
 
 ## Introduction
-   **TODO**
-   
-   **previous datasets**
+   **Previous datasets**
    
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
@@ -22,7 +20,35 @@
    |   Deepfake detection     |[download](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)|Deepfake|over3000|28|
    |Celeb-deepfakeforensics   |[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|13|
    |   DFDC                   |[download](https://deepfakedetectionchallenge.ai/)|Deepfake|-|-|
+   
+   **Ours**
+   |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
+   |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   **Deepfake in the wild**   |[**download**](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|**Download from Internet**|**707**|**about100**|
+
+**File Structure**:
+deepfake_in_the_wild
+                    |--real train
+                                 |--0.tar.gz
+                                 |--1.tar.gz
+                                 |--2.tar.gz
+                                 ...
+                    |--real test
+                                |--0.tar.gz
+                                |--1.tar.gz
+                                |--2.tar.gz
+                                ...
+                    |--fake train
+                                 |--0.tar.gz
+                                 |--1.tar.gz
+                                 |--2.tar.gz
+                                 ...
+                    |--fake test
+                                |--0.tar.gz
+                                |--1.tar.gz
+                                |--2.tar.gz
+                                ...
+
 ## Highlights
 
 -**Collected from Internet**
