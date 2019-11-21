@@ -16,7 +16,7 @@
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   Deepfake-TIMIT low     |[download](https://www.idiap.ch/dataset/deepfaketimit)|Deepfake|320|32|
    |   Deepfake-TIMIT high    |[download](https://www.idiap.ch/dataset/deepfaketimit)|Deepfake|320|32|
-   |   Faceforensics          |miss|deepfake|1000|998|
+   |   Faceforensics          |-|Deepfake|1000|998|
    |   Faceforensics++        |[download](https://github.com/ondyari/FaceForensics)|Deepfake|1000|998|
    |   Deepfake detection     |[download](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)|Deepfake|over3000|28|
    |   DFDC                   |[download](https://deepfakedetectionchallenge.ai/)|Deepfake|-|-|
