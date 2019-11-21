@@ -35,7 +35,9 @@
 Deepfake-TIMIT low
 
 Deepfake-TIMIT high
-
+<p align="center">
+<img src="./Deepfake-TIMIT_high.jpg"  alt="Deepfake-TIMIT high" title="Deepfake-TIMIT high" align="center"></img>
+</p>
 FaceForensics
 
 FaceForensics++
