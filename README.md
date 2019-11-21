@@ -29,7 +29,7 @@
 
 **File Structure**:
 
-deepfake_in_the_wild
+deepfake_in_the_wild|
                     |--real train
                                  |--0.tar.gz
                                  |--1.tar.gz
