@@ -33,7 +33,8 @@
 **TODO**
 
 Deepfake-TIMIT low
-
+<img src="./Deepfake-TIMIT-low.jpg"  alt="Deepfake-TIMIT low" title="Deepfake-TIMIT low" align="center"></img>
+</p>
 Deepfake-TIMIT high
 <p align="center">
 <img src="./Deepfake-TIMIT-high.jpg"  alt="Deepfake-TIMIT high" title="Deepfake-TIMIT high" align="center"></img>
