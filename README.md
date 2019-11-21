@@ -21,11 +21,12 @@
    
    We will upload our method in few days. Our method achieves state of the art in many datasets.
 ## Expriments
-We use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extracted features from the images in provious datasets and our dataset. Here is the comparsion:
+We use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extracte features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the Dimensionality. The red point represents fake face, the green point represent real face. Here is the comparsion:
 
 <p align="center">
 <img src="./Comparsion.png"  alt="Comparsion" title="Comparsion" align="center"></img>
 </p>
+
 
 ## Download
 [Baidu Drive](https://pan.baidu.com/s/1bYsie4Sz9vDWerBfGTyNxg)
