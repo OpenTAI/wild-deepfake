@@ -22,11 +22,13 @@
    |   DFDC                   |[download](https://deepfakedetectionchallenge.ai/)|Deepfake|-|-|
    
    **Ours**
+   
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   **Deepfake in the wild**   |[**download**](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|**Download from Internet**|**707**|**about100**|
 
 **File Structure**:
+
 deepfake_in_the_wild
                     
                     |--real train
@@ -39,33 +41,19 @@ deepfake_in_the_wild
                                  
                                  ...
                     |--real test
-                                
                                 |--0.tar.gz
-                                
                                 |--1.tar.gz
-                                
                                 |--2.tar.gz
-                                
                                 ...
-                    
                     |--fake train
-                                 
                                  |--0.tar.gz
-                                 
                                  |--1.tar.gz
-                                 
                                  |--2.tar.gz
-                                 
                                  ...
-                    
                     |--fake test
-                                
                                 |--0.tar.gz
-                                
                                 |--1.tar.gz
-                                
                                 |--2.tar.gz
-                                
                                 ...
 
 ## Highlights
