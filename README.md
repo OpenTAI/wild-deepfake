@@ -12,10 +12,15 @@
    **TODO**
    **previous datasets**
    
-   |              |
-   |--------------|
-   |              |
-   |              |
+   |       dataset name       |
+   |--------------------------|
+   |   deepfake-TIMIT low     |
+   |   deepfake-TIMIT high    |
+   |   faceforensics          |
+   |   faceforensics++        |
+   |   deepfake detection     |
+   |   DFDC                   |
+   |   Deepfake in the wild   |
 ## Highlights
 
 -**Collected from Internet**
