@@ -39,8 +39,9 @@ Deepfake-TIMIT high
 <p align="center">
 <img src="./Deepfake-TIMIT-high.jpg"  alt="Deepfake-TIMIT high" title="Deepfake-TIMIT high" align="center"></img>
 </p>
+
 FaceForensics
-<b></b>
+
 None
 
 FaceForensics++
