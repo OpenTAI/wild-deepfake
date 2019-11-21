@@ -27,6 +27,7 @@
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   **Deepfake in the wild**   |[**download**](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|**Download from Internet**|**707**|**about100**|
 
+
 **examples from previous datasets**
 
 **TODO**
@@ -44,6 +45,7 @@ Deepfake Detection
 Celeb-deepfakeforensics
 
 DFDC
+
 
 **examples from ours**
 
