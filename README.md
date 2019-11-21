@@ -27,6 +27,29 @@
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   **Deepfake in the wild**   |[**download**](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|**Download from Internet**|**707**|**about100**|
 
+**examples from previous datasets**
+
+**TODO**
+
+Deepfake-TIMIT low
+
+Deepfake-TIMIT high
+
+FaceForensics
+
+FaceForensics++
+
+Deepfake Detection
+
+Celeb-deepfakeforensics
+
+DFDC
+
+**examples from ours**
+
+Deepfake in the wild
+
+
 **File Structure**:
 ~~~
 deepfake_in_the_wild
