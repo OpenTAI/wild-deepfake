@@ -28,25 +28,44 @@
 
 **File Structure**:
 deepfake_in_the_wild
+                    
                     |--real train
+                    
                                  |--0.tar.gz
+                                 
                                  |--1.tar.gz
+                                 
                                  |--2.tar.gz
+                                 
                                  ...
                     |--real test
+                                
                                 |--0.tar.gz
+                                
                                 |--1.tar.gz
+                                
                                 |--2.tar.gz
+                                
                                 ...
+                    
                     |--fake train
+                                 
                                  |--0.tar.gz
+                                 
                                  |--1.tar.gz
+                                 
                                  |--2.tar.gz
+                                 
                                  ...
+                    
                     |--fake test
+                                
                                 |--0.tar.gz
+                                
                                 |--1.tar.gz
+                                
                                 |--2.tar.gz
+                                
                                 ...
 
 ## Highlights
