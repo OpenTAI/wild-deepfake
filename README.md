@@ -40,9 +40,9 @@ First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/
 
 
 ## Download
-[Baidu Drive](https://pan.baidu.com/s/1bYsie4Sz9vDWerBfGTyNxg)
+[Baidu Drive](https://pan.baidu.com/s/1qPQlOCJbuzGAp4axETguoA)
 
-passwd:8kqd
+passwd:izr7
 
 
 ## Warning: 
