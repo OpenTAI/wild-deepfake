@@ -12,15 +12,15 @@
    **TODO**
    **previous datasets**
    
-   |       dataset name       |         download         |      deepfake videos     |           actors           |face2face|
-   |--------------------------|--------------------------|--------------------------|----------------------------|---------|
-   |   deepfake-TIMIT low     |[download](https://www.idiap.ch/dataset/deepfaketimit)|320|32|-|
-   |   deepfake-TIMIT high    |[download](https://www.idiap.ch/dataset/deepfaketimit)|320|32|-|
-   |   faceforensics          |miss|1000|998|1000|
-   |   faceforensics++        |[download](https://github.com/ondyari/FaceForensics)|1000|998|1000|
-   |   deepfake detection     |[download](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)|over3000|28|-|
-   |   DFDC                   |[download](https://deepfakedetectionchallenge.ai/)|-|-|-|
-   |   Deepfake in the wild   |[download](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|707|about100|-|
+   |       Dataset name       |         Download         |      Deepfake videos     |           Actors           |Face2Face|Faceswap|Neuraltexture|
+   |--------------------------|--------------------------|--------------------------|----------------------------|---------|--------|------|
+   |   deepfake-TIMIT low     |[download](https://www.idiap.ch/dataset/deepfaketimit)|320|32|-|-|-|
+   |   deepfake-TIMIT high    |[download](https://www.idiap.ch/dataset/deepfaketimit)|320|32|-|-|-|
+   |   faceforensics          |miss|1000|998|1000|1000|-|
+   |   faceforensics++        |[download](https://github.com/ondyari/FaceForensics)|1000|998|1000|1000|1000|
+   |   deepfake detection     |[download](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)|over3000|28|-|-|-|
+   |   DFDC                   |[download](https://deepfakedetectionchallenge.ai/)|-|-|-|-|-|
+   |   Deepfake in the wild   |[download](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|707|about100|-|-|-|
 ## Highlights
 
 -**Collected from Internet**
