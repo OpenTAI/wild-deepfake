@@ -10,6 +10,11 @@
 
 ## Introduction
    **TODO**
+   **previous datasets**
+   |              |
+   |--------------|
+   |              |
+   |              |
 ## Highlights
 
 -**Collected from Internet**
@@ -21,7 +26,7 @@
    
    We will upload our method in few days. Our method achieves state of the art in many datasets.
 ## Expriments
-First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extracte features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the Dimensionality. Red points represent fake faces, green points represent real faces. Here is the comparsion:
+First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extract features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the dimensionality. Red points represent fake faces, green points represent real faces. Here is the comparsion:
 
 <p align="center">
 <img src="./Comparsion.png"  alt="Comparsion" title="Comparsion" align="center"></img>
