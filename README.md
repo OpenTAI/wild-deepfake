@@ -20,7 +20,7 @@
    |   Faceforensics          |-|Deepfake|1000|998|
    |   Faceforensics++        |[download](https://github.com/ondyari/FaceForensics)|Deepfake|1000|998|
    |   Deepfake detection     |[download](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)|Deepfake|over3000|28|
-   |Celeb-deepfakeforensics   |[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|-|-|
+   |Celeb-deepfakeforensics   |[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|13|
    |   DFDC                   |[download](https://deepfakedetectionchallenge.ai/)|Deepfake|-|-|
    |   Deepfake in the wild   |[download](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|Download from Internet|707|about100|
 ## Highlights
