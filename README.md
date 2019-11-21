@@ -12,15 +12,15 @@
    **TODO**
    **previous datasets**
    
-   |       dataset name       |
-   |--------------------------|
-   |   deepfake-TIMIT low     |
-   |   deepfake-TIMIT high    |
-   |   faceforensics          |
-   |   faceforensics++        |
-   |   deepfake detection     |
-   |   DFDC                   |
-   |   Deepfake in the wild   |
+   |       dataset name       |         download         |
+   |--------------------------|--------------------------|
+   |   deepfake-TIMIT low     |         [download](https://www.idiap.ch/dataset/deepfaketimit)   |
+   |   deepfake-TIMIT high    |         [download](https://www.idiap.ch/dataset/deepfaketimit)   |
+   |   faceforensics          |           miss           |
+   |   faceforensics++        |         [download](https://github.com/ondyari/FaceForensics)   |
+   |   deepfake detection     |         [download](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)   |
+   |   DFDC                   |         [download](https://deepfakedetectionchallenge.ai/)   |
+   |   Deepfake in the wild   |         [download]()     |
 ## Highlights
 
 -**Collected from Internet**
