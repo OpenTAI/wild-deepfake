@@ -87,7 +87,9 @@ deepfake_in_the_wild
                                 ...
 ~~~
 
-In each tar file, there will be several folders containing face images, and the images in each folder represent a face sequence.
+In each tar.gz file, there will be several folders containing face images, and the images in each folder represent a face sequence.
+The image name in the folder represents the frame number it appears in the original video.
+
 ## Highlights
 
 -**Collected from Internet**
