@@ -86,6 +86,8 @@ deepfake_in_the_wild
                                 |--2.tar.gz
                                 ...
 ~~~
+
+In each tar file, there will be several folders containing face images, and the images in each folder represent a face sequence.
 ## Highlights
 
 -**Collected from Internet**
