@@ -20,7 +20,7 @@
    |   faceforensics++        |         [download](https://github.com/ondyari/FaceForensics)   |
    |   deepfake detection     |         [download](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)   |
    |   DFDC                   |         [download](https://deepfakedetectionchallenge.ai/)   |
-   |   Deepfake in the wild   |         [download]()     |
+   |   Deepfake in the wild   |         [download](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)     |
 ## Highlights
 
 -**Collected from Internet**
