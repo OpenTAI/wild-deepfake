@@ -42,7 +42,9 @@ Deepfake-TIMIT high
 FaceForensics
 
 FaceForensics++
-
+<p align="center">
+<img src="./FaceForensics.jpg"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
+</p>
 Deepfake Detection
 
 Celeb-deepfakeforensics
