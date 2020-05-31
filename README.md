@@ -31,26 +31,20 @@
 
 **TODO**
 
-Deepfake-TIMIT low
-<img src="./Deepfake-TIMIT-low.jpg"  alt="Deepfake-TIMIT low" title="Deepfake-TIMIT low" align="center"></img>
+Deepfake-TIMIT
+
+<img src="./DF-TIMIT.png"  alt="Deepfake-TIMIT low" title="Deepfake-TIMIT low" align="center"></img>
 </p>
-
-Deepfake-TIMIT high
-<p align="center">
-<img src="./Deepfake-TIMIT-high.jpg"  alt="Deepfake-TIMIT high" title="Deepfake-TIMIT high" align="center"></img>
-</p>
-
-FaceForensics
-
-None
 
 FaceForensics++
 <p align="center">
-<img src="./FaceForensics.jpg"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
+<img src="./FF++.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
 </p>
 
 Deepfake Detection
-
+<p align="center">
+<img src="./DFD.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
+</p>
 Celeb-deepfakeforensics
 
 DFDC
