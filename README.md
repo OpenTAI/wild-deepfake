@@ -84,16 +84,14 @@ deepfake_in_the_wild
 In each tar.gz file, there will be several folders containing face images, and the images in each folder represent a face sequence.
 The image name in the folder represents the frame number it appears in the original video.
 
-## Highlights
-
--**Collected from Internet**
-
--**well made**
 
 ## Our Method
    **TODO**
    
    We will upload our method in few days. Our method achieves state of the art in many datasets.
+   
+   The network structure of our proposed ADDNet-2D is illustrated in bellow. Detailed structures of the three residual blocks used in our ADDNet-2D network are shown in bellow too. These three blocks are also the building blocks of XceptionNet. The base network before the "resblock3" is our proposed ADDblock. Our ADDNet-3D shares the same ADD block architecture as ADDNet-2D, but having one ADD block for each of the face image in the sequence. Therefore, in our setting with face sequence length 𝐿, ADDNet-3D will have 𝐿 ADDblocks, each ADD blocks share the same weights. Also different to ADDNet-2D, the classifier network(structure after the ADDblock) of ADDNet-3D is a 3D CNN.
+   
 ## Expriments
 First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extract features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the dimensionality. Red points represent fake faces, green points represent real faces. Here is the comparsion:
 
@@ -103,8 +101,7 @@ First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/
 
 
 ## Download
-[Baidu Drive](https://pan.baidu.com/s/1qPQlOCJbuzGAp4axETguoA)
-
+[Baidu Drive](https://pan.baidu.com/s/1qPQlOCJbuzGAp4axETguoA)\\
 passwd: [get here](https://www.our-wilddeepfake-projectpage.com)
 
 ## Warning: 
