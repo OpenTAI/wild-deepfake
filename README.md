@@ -86,9 +86,6 @@ The image name in the folder represents the frame number it appears in the origi
 
 
 ## Our Method
-   **TODO**
-   
-   We will upload our method in few days. Our method achieves state of the art in many datasets.
 <p align="center">
 <img src="./ADDNet.png"  alt="ADDNet" title="ADDNet" align="center"></img>
 </p>   
