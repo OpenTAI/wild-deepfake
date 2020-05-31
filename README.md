@@ -29,8 +29,6 @@
 
 **Examples from previous datasets**
 
-**TODO**
-
 Deepfake-TIMIT
 
 <img src="./DF-TIMIT.png"  alt="Deepfake-TIMIT low" title="Deepfake-TIMIT low" align="center"></img>
@@ -53,8 +51,10 @@ DFDC
 
 **examples from ours**
 
-Deepfake in the wild
-
+WildDeepfake
+<p align="center">
+<img src="./WD.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
+</p>
 
 **File Structure**:
 ~~~
