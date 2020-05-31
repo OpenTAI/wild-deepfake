@@ -45,10 +45,11 @@ Deepfake Detection
 <p align="center">
 <img src="./DFD.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
 </p>
-Celeb-deepfakeforensics
 
 DFDC
-
+<p align="center">
+<img src="./DFDC.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
+</p>
 
 **examples from ours**
 
