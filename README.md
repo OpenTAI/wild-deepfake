@@ -104,7 +104,7 @@ First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/
 
 ## Download
 [Baidu Drive](https://pan.baidu.com/s/1qPQlOCJbuzGAp4axETguoA)
-passwd: [get here](https://ourprojectpage.com)
+passwd: [get here](https://www.our-wilddeepfake-projectpage.com)
 
 ## Warning: 
 This is not our final vision.
