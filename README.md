@@ -51,6 +51,7 @@ DFDC
 
 **Examples from ours**
 
+**NOTE: We block some facial regoins in our examples due to the privacy concern.**
 WildDeepfake
 <p align="center">
 <img src="./WD.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
