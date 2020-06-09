@@ -107,7 +107,7 @@ First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/
 ## Download
 [Baidu Drive](https://pan.baidu.com/s/1qPQlOCJbuzGAp4axETguoA)
 
-passwd: [get here](https://forms.gle/NNw7j7f2CWA1ZF7Q8)
+passwd: [get here](https://forms.gle/KFnh2Lp4KyNrEFxp9)
 
 ## Warning: 
 This is not our final vision.
