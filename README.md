@@ -97,7 +97,7 @@ The image name in the folder represents the frame number it appears in the origi
 </p>
 
 ## Expriments
-First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extract features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the dimensionality. Red points represent fake faces, green points represent real faces. Here is the comparsion:
+First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extract features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the dimensionality. Red points represent fake faces, green points represent real faces. Here is the comparision:
 
 <p align="center">
 <img src="./t-sne.PNG"  alt="t-sne" title="t-sne" align="center"></img>
