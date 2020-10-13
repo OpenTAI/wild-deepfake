@@ -8,7 +8,7 @@
 
 
 
-### FACE PRIVACY Statement
+# FACE PRIVACY Statement
 We have done the following to ensure face privacy in the dataset. 
 * Our dataset is used only for research purposed, we only release face sequence rather than the whole video.
 * We block the key parts of the face in the paper and slides. We also set up strict access rules. 
