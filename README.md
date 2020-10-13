@@ -6,6 +6,16 @@
 <img src="./fakemask.jpg"  width="480px" height="290px" alt="Deepfake in the Wild" title="Deepfake in the Wild" align="center"></img>
 </p>
 
+
+
+### FACE PRIVACY Statement
+We have done the following to ensure face privacy in the dataset. 
+* Our dataset is used only for research purposed, we only release face sequence rather than the whole video.
+* We block the key parts of the face in the paper and slides. We also set up strict access rules. 
+* When applicants apply, we will check the applicant’s academic email address, personal electronic signature and other necessary information.
+* We require the applicant to sign a strict agreement to ensure that the dataset is used only for research purposes.
+* If some parts of the dataset affect you, you can contact us to remove them.
+
 ## Introduction
    **Previous datasets**
    
