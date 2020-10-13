@@ -75,6 +75,3 @@ First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/
 
 ## Download
 You can download [here](https://forms.gle/143TEapAk5yEYXuN6).
-
-## Warning: 
-This is not our final vision.
