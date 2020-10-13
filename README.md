@@ -14,7 +14,7 @@ We have done the following to ensure face privacy in the dataset.
 * We block the key parts of the face in the paper and slides. We also set up strict access rules. 
 * When applicants apply, we will check the applicant’s academic email address, personal electronic signature and other necessary information.
 * We require the applicant to sign a strict agreement to ensure that the dataset is used only for research purposes.
-* If some parts of the dataset affect you, you can contact us to remove them.
+* If some parts of the dataset affect you, you can [contact us](xxx@google.com) to remove them.
 
 ## Introduction
    **Previous datasets**
