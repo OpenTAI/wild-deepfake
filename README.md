@@ -24,7 +24,7 @@
    
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   **WildDeepfake**   |[**download**](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|**Download from Internet**|**707**|**about100**|
+   |   **WildDeepfake**   |[**download**](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|**Internet**|**707**|**-**|
 
 
 **File Structure**:
@@ -74,9 +74,7 @@ First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/
 
 
 ## Download
-[Baidu Drive](https://pan.baidu.com/s/1qPQlOCJbuzGAp4axETguoA)
-
-passwd: [get here](https://forms.gle/143TEapAk5yEYXuN6)
+You can download [here](https://forms.gle/143TEapAk5yEYXuN6).
 
 ## Warning: 
 This is not our final vision.
