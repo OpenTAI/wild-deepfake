@@ -24,12 +24,8 @@
    
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   **WildDeepfake**   |[**download**](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|**Download from Internet**|**707**|**about100**|
+   |   **WildDeepfake**   |[**download**](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|**Download from Internet**|**707**|**about100**|
 
-WildDeepfake
-<p align="center">
-<img src="./WD.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
-</p>
 
 **File Structure**:
 ~~~
