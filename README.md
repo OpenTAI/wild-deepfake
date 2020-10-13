@@ -26,33 +26,6 @@
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   **WildDeepfake**   |[**download**](https://github.com/deepfakeinthewild/deepfake_in_the_wild#download)|**Download from Internet**|**707**|**about100**|
 
-
-**Examples from previous datasets**
-
-Deepfake-TIMIT
-
-<img src="./DF-TIMIT.png"  alt="Deepfake-TIMIT low" title="Deepfake-TIMIT low" align="center"></img>
-</p>
-
-FaceForensics++
-<p align="center">
-<img src="./FF++.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
-</p>
-
-Deepfake Detection
-<p align="center">
-<img src="./DFD.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
-</p>
-
-DFDC
-<p align="center">
-<img src="./DFDC.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
-</p>
-
-**Examples from ours**
-
-**NOTE: We block some facial regoins in our examples due to the privacy concern.**
-
 WildDeepfake
 <p align="center">
 <img src="./WD.png"  alt="FaceFornesics++" title="FaceFornesics++" align="center"></img>
