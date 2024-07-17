@@ -1,7 +1,7 @@
 # WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection
 
 ##  Abstact
-   In recent years, the abuse of a face swap technique called deepfake Deepfake has raised enormous public concerns. Deepfake manipulates deep learning techniques to replace one person's face in a video to someone else's without leaving obvious traces.  So far, a large number of deepfake videos (also known as "deepfakes") have been crafted and uploaded to the internet, which calls for the development of effective countermeasures.One promising countermeasure against deepfakes is deepfake detection. Several deepfake datasets have been released to support the training and testing of deepfake detectors, such as DeepfakeDetection and FaceForensics++.While this has greatly advanced deepfake detection, most of the real videos in these datasets are filmed with a few volunteer actors in limited scenes, and the fake videos are crafted by researchers using a few popular deepfake softwares. Detectors developed on these datasets may lose effectiveness when applied to detect the vast variety of deepfake videos in the wild (those uploaded to varies video-sharing websites). To better support detection against real-world deepfakes, in this paper, we introduce a new dataset **WildDeepfake**, which consists of **7,314** face sequences extracted from **707** deepfake videos that are collected completely from the internet. WildDeepfake is a small dataset that can be used, in addition to existing datasets, to develop more effective detectors against real-world deepfakes.We conduct a systematic evaluation of a set of baseline detection networks on both existing and our WildDeepfake datasets, and show that WildDeepfake is indeed a more challenging dataset, where the detection performance can decrease drastically. We also propose two (eg. 2D and 3D) Attention-based Deepfake Detection Networks (ADDNets) to leverage the attention masks on real/fake faces for improved detection. We empirically verify the effectiveness of ADDNets on both existing and WildDeepfake.
+   In recent years, the abuse of a face swap technique called deepfake Deepfake has raised enormous public concerns. Deepfake manipulates deep learning techniques to replace one person's face in a video with someone else's without leaving obvious traces.  So far, a large number of deepfake videos (also known as "deepfakes") have been crafted and uploaded to the internet, which calls for the development of effective countermeasures. One promising countermeasure against deepfakes is deepfake detection. Several deepfake datasets have been released to support the training and testing of deepfake detectors, such as DeepfakeDetection and FaceForensics++. While this has greatly advanced deepfake detection, most of the real videos in these datasets are filmed with a few volunteer actors in limited scenes. The fake videos are crafted by researchers using a few popular deepfake software. Detectors developed on these datasets may lose effectiveness when applied to detect the vast variety of deepfake videos in the wild (those uploaded to various video-sharing websites). To better support detection against real-world deepfakes, in this paper, we introduce a new dataset **WildDeepfake**, which consists of **7,314** face sequences extracted from **707** deepfake videos that are collected completely from the internet. WildDeepfake is a small dataset that can be used, in addition to existing datasets, to develop more effective detectors against real-world deepfakes. We systematically evaluate a set of baseline detection networks on both existing and our WildDeepfake datasets, and show that WildDeepfake is indeed a more challenging dataset, where the detection performance can decrease drastically. We also propose two (eg. 2D and 3D) Attention-based Deepfake Detection Networks (ADDNets) to leverage the attention masks on real/fake faces for improved detection. We empirically verify the effectiveness of ADDNets on both existing and WildDeepfake.
 <p align="center">
 <img src="./fakemask.jpg"  width="480px" height="290px" alt="Deepfake in the Wild" title="Deepfake in the Wild" align="center"></img>
 </p>
@@ -11,11 +11,11 @@
 
 ## FACE PRIVACY Statement
 We have done the following to ensure face privacy in the dataset. 
-* Our dataset is used only for research purposed, we only release face sequence rather than the whole video.
+* Our dataset is used only for research purposes, we only release the face sequence rather than the whole video.
 * We block the key parts of the face in the paper and slides. We also set up strict access rules. 
-* When applicants apply, we will check the applicant’s academic email address, personal electronic signature and other necessary information.
+* When applicants apply, we will check the applicant’s academic email address, personal electronic signature, and other necessary information.
 * We require the applicant to sign a strict agreement to ensure that the dataset is used only for research purposes.
-* If some parts of the dataset affect you, you can [contact us](https://forms.gle/Knzz1Xqn43ukGpcD6) to remove them.
+* If some parts of the dataset affect you, you can [contact us]([https://forms.gle/Knzz1Xqn43ukGpcD6](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6)) to remove them.
 
 ## Introduction
    **Previous datasets**
@@ -35,7 +35,7 @@ We have done the following to ensure face privacy in the dataset.
    
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   **WildDeepfake**   |[**download**](https://github.com/deepfakeinthewild/deepfake-in-the-wild#download)|**Internet**|**707**|**-**|
+   |   **WildDeepfake**   |[**download**]([https://github.com/deepfakeinthewild/deepfake-in-the-wild#download](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6))|**Internet**|**707**|**-**|
 
 
 **File Structure**:
@@ -71,13 +71,13 @@ The image name in the folder represents the frame number it appears in the origi
 <p align="center">
 <img src="./ADDNet.png"  alt="ADDNet" title="ADDNet" align="center"></img>
 </p>   
-   The network structure of our proposed ADDNet-2D is illustrated in bellow. Detailed structures of the three residual blocks used in our ADDNet-2D network are shown in bellow too. These three blocks are also the building blocks of XceptionNet. The base network before the "resblock3" is our proposed ADDblock. Our ADDNet-3D shares the same ADD block architecture as ADDNet-2D, but having one ADD block for each of the face image in the sequence. Therefore, in our setting with face sequence length 𝐿, ADDNet-3D will have 𝐿 ADDblocks, each ADD blocks share the same weights. Also different to ADDNet-2D, the classifier network(structure after the ADDblock) of ADDNet-3D is a 3D CNN.
+   The network structure of our proposed ADDNet-2D is illustrated below. Detailed structures of the three residual blocks used in our ADDNet-2D network are shown below too. These three blocks are also the building blocks of XceptionNet. The base network before the "resblock3" is our proposed ADDblock. Our ADDNet-3D shares the same ADD block architecture as ADDNet-2D, but has one ADD block for each of the face images in the sequence. Therefore, in our setting with face sequence length 𝐿, ADDNet-3D will have 𝐿 ADDblocks, and each ADD blocks share the same weights. Also different from ADDNet-2D, the classifier network(structure after the ADDblock) of ADDNet-3D is a 3D CNN.
 <p align="center">
 <img src="./details.jpg"  alt="details" title="detials" align="center"></img>
 </p>
 
 ## Expriments
-First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extract features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the dimensionality. Red points represent fake faces, green points represent real faces. Here is the comparision:
+First, we use pre-trained [Resnet-101](https://github.com/tensorflow/models/tree/master/research/slim) to extract features from the images in previous datasets and our dataset. Then we use the [T-SNE](http://projector.tensorflow.org/) to reduce the dimensionality. Red points represent fake faces, green points represent real faces. Here is the comparison:
 
 <p align="center">
 <img src="./t-sne.PNG"  alt="t-sne" title="t-sne" align="center"></img>
@@ -85,4 +85,4 @@ First, we use pretrained [Resnet-101](https://github.com/tensorflow/models/tree/
 
 
 ## Download
-You can download [here](https://docs.google.com/forms/d/e/1FAIpQLSfN-CrnxDz_Furv0KzcNdO_Nzf_3Gpy4s-P4qRjKBJuD2CaEA/viewform?usp=sf_link). We support both Baidu drive and Google drive.
+You can download [here]([https://docs.google.com/forms/d/e/1FAIpQLSfN-CrnxDz_Furv0KzcNdO_Nzf_3Gpy4s-P4qRjKBJuD2CaEA/viewform?usp=sf_link](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6)). We support both Baidu drive and Google drive.
