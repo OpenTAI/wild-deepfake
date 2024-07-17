@@ -15,7 +15,7 @@ We have done the following to ensure face privacy in the dataset.
 * We block the key parts of the face in the paper and slides. We also set up strict access rules. 
 * When applicants apply, we will check the applicant’s academic email address, personal electronic signature, and other necessary information.
 * We require the applicant to sign a strict agreement to ensure that the dataset is used only for research purposes.
-* If some parts of the dataset affect you, you can [contact us]([https://forms.gle/o8vy9Q8fQ5mQZ4Qk6]) to remove them.
+* If some parts of the dataset affect you, you can [contact us](danxjma@gmail.com) to remove them.
 
 ## Introduction
    **Previous datasets**
@@ -35,7 +35,7 @@ We have done the following to ensure face privacy in the dataset.
    
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   **WildDeepfake**   |[**download**]([https://github.com/deepfakeinthewild/deepfake-in-the-wild#download](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6))|**Internet**|**707**|**-**|
+   |   **WildDeepfake**   |[**download**](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6)|**Internet**|**707**|**-**|
 
 
 **File Structure**:
@@ -85,4 +85,4 @@ First, we use pre-trained [Resnet-101](https://github.com/tensorflow/models/tree
 
 
 ## Download
-You can download [here]([https://docs.google.com/forms/d/e/1FAIpQLSfN-CrnxDz_Furv0KzcNdO_Nzf_3Gpy4s-P4qRjKBJuD2CaEA/viewform?usp=sf_link](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6)). We support both Baidu drive and Google drive.
+You can download [here](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6). We support both Baidu drive and Google drive.
