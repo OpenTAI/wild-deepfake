@@ -6,6 +6,7 @@
 <img src="./fakemask.jpg"  width="480px" height="290px" alt="Deepfake in the Wild" title="Deepfake in the Wild" align="center"></img>
 </p>
 
+**The new manager of this dataset is Prof. Xingjun Ma. If you have questions, feel free to send email to him (danxjma@gmail.com)**
 
 
 ## FACE PRIVACY Statement
