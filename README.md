@@ -85,4 +85,4 @@ First, we use pre-trained [Resnet-101](https://github.com/tensorflow/models/tree
 
 
 ## Download
-You can download [here](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6). We support both Baidu drive and Google drive.
+You can fill the form [here](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to request a copy of the dataset. We support both Baidu Drive and Google Drive.
