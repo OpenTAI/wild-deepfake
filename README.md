@@ -62,7 +62,7 @@ deepfake_in_the_wild
 In each tar.gz file, there will be several folders containing face images, and the images in each folder represent a face sequence.
 The image name in the folder represents the frame number it appears in the original video.
 
-
+<!---
 ### Our ADDNet-2D Detection Method
 <p align="center">
 <img src="./ADDNet.png"  alt="ADDNet" title="ADDNet" align="center"></img>
@@ -78,12 +78,7 @@ First, we use pre-trained [Resnet-101](https://github.com/tensorflow/models/tree
 <p align="center">
 <img src="./t-sne.PNG"  alt="t-sne" title="t-sne" align="center"></img>
 </p>
-
-
-### Request for Download
-You can fill the form [here](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to request a copy of the dataset. We support both Baidu Drive and Google Drive.
-
-**The new maintainer of this dataset is Prof. Xingjun Ma. If you have questions, feel free to send email to him (danxjma@gmail.com)**
+--->
 
 ### Privacy Statement
 We have done the following to ensure face privacy in the dataset. 
@@ -92,3 +87,9 @@ We have done the following to ensure face privacy in the dataset.
 * When applicants apply, we will check the applicant’s academic email address, personal electronic signature, and other necessary information.
 * We require the applicant to sign a strict agreement to ensure that the dataset is used only for research purposes.
 * If some parts of the dataset affect you, you can [contact us](danxjma@gmail.com) to remove them.
+
+
+### Request for Download
+You can fill the form [here](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to request a copy of the dataset. We support both Baidu Drive and Google Drive.
+
+
