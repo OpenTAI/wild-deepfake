@@ -80,16 +80,21 @@ First, we use pre-trained [Resnet-101](https://github.com/tensorflow/models/tree
 </p>
 --->
 
-### Privacy Statement
-We have done the following to ensure face privacy in the dataset. 
-* Our dataset is used only for research purposes, we only release the face sequence rather than the whole video.
-* We block the key parts of the face in the paper and slides. We also set up strict access rules. 
-* When applicants apply, we will check the applicant’s academic email address, personal electronic signature, and other necessary information.
-* We require the applicant to sign a strict agreement to ensure that the dataset is used only for research purposes.
-* If some parts of the dataset affect you, you can [contact us](danxjma@gmail.com) to remove them.
-
-
 ### Request for Download
 You can fill the form [here](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to request a copy of the dataset. We support both Baidu Drive and Google Drive.
+
+
+### Privacy Statement
+
+To ensure the privacy of individuals featured in the dataset, we have implemented the following measures:
+
+- **Restricted Use**: The dataset is strictly for research purposes, and only face sequences are released, not full videos.
+- **Privacy Protection in Publications**: Key facial features are obscured in all visual materials, including papers and presentations. Additionally, strict access controls are in place.
+- **Applicant Verification**: Access is granted only after verifying the applicant’s academic email address, personal electronic signature, and other necessary credentials.
+- **Usage Agreement**: Applicants are required to sign a comprehensive agreement to ensure the dataset is used exclusively for research purposes.
+- **Right to Removal**: If any part of the dataset impacts you, please [contact us](mailto:danxjma@gmail.com) to request its removal. 
+
+We are committed to safeguarding privacy while enabling research advancements.
+
 
 
