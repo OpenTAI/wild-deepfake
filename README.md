@@ -1,10 +1,10 @@
-<h2 style="text-align:center;">WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection</h2>
+<h2>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection</h2>
 
 <p align="center">
 <img src="./fakemask.jpg"  width="720" height="435px" alt="Deepfake in the Wild" title="Deepfake in the Wild" align="center"></img>
 </p>
 
-###  Dataset Description
+## 📌 Dataset Description
    
 Existing deepfake datasets like DeepfakeDetection and FaceForensics++ have advanced detection research but are limited by constrained real videos featuring a few actors and fake videos generated using popular software. As a result, detectors trained on these datasets often struggle with the diversity of real-world deepfakes found online.
 
@@ -13,8 +13,8 @@ To address this, we introduce **WildDeepfake**, a dataset of **7,314** face sequ
 To enhance detection, we also propose **Attention-based Deepfake Detection Networks (ADDNets)**, utilizing 2D and 3D attention mechanisms to improve focus on real/fake facial features. 
 
 
-### Dataset Statistics
-   **Previous datasets**
+## 📂 Dataset Contents
+   1. **A comparision to previous datasets (before our work)**
    
    |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
@@ -26,15 +26,10 @@ To enhance detection, we also propose **Attention-based Deepfake Detection Netwo
    |Celeb-deepfakeforensics v1|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|795|13|
    |Celeb-deepfakeforensics v2|[download](https://github.com/danmohaha/celeb-deepfakeforensics)|Deepfake|590|59|
    |   DFDC                   |[download](https://deepfakedetectionchallenge.ai/)|Deepfake|-|-|
+   |   **WildDeepfake**   |[**download**](https://huggingface.co/datasets/xingjunm/WildDeepfake)|**Internet**|**707**|**Unknown**|
    
-   **Ours**
-   
-   |       Dataset name       |         Download         |Generate method|      Deepfake videos     |           Actors           |
-   |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   **WildDeepfake**   |[**download**](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6)|**Internet**|**707**|**-**|
 
-
-**File Structure**:
+2. **File Structure**:
 ~~~
 deepfake_in_the_wild
                     |--real train
@@ -80,11 +75,23 @@ First, we use pre-trained [Resnet-101](https://github.com/tensorflow/models/tree
 </p>
 --->
 
-### Request for Download
-You can fill the form [here](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to request a copy of the dataset. We support both Baidu Drive and Google Drive.
+## ⬇️ Request for Download
+The dataset is now avalibble on Hugging Face at [click to download](https://huggingface.co/datasets/xingjunm/WildDeepfake), but you need to fill the form [click to fill](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to use the dataset.
 
+## 📜 Cite Us
+If you use this dataset in your research, please cite it as follows:
 
-### Privacy Statement
+```
+@inproceedings{zi2020wilddeepfake,
+  title={Wilddeepfake: A challenging real-world dataset for deepfake detection},
+  author={Zi, Bojia and Chang, Minghao and Chen, Jingjing and Ma, Xingjun and Jiang, Yu-Gang},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={2382--2390},
+  year={2020}
+}
+```
+
+## 📝 Privacy Statement
 
 To ensure the privacy of individuals featured in the dataset, we have implemented the following measures:
 
