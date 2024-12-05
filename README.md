@@ -76,7 +76,7 @@ First, we use pre-trained [Resnet-101](https://github.com/tensorflow/models/tree
 --->
 
 ## ⬇️ Request for Download
-The dataset is now avalibble on Hugging Face at [click to download](https://huggingface.co/datasets/xingjunm/WildDeepfake), but you will need to fill the form [click to fill](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to use the dataset.
+You will need to fill an agreement [form](https://forms.gle/o8vy9Q8fQ5mQZ4Qk6) to use the dataset, which is now avalibble on Hugging Face [click to download](https://huggingface.co/datasets/xingjunm/WildDeepfake).
 
 ## 📜 Cite Us
 If you use this dataset in your research, please cite it as follows:
